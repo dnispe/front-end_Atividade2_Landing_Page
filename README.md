@@ -1,20 +1,21 @@
 # front-end_Atividade2_Landing_Page
-##Tecnologias front-end 
-###Atividade 2: Landing Page 
+## Tecnologias front-end 
+### Atividade 2: Landing Page 
 Crie uma landing page com um tema de sua escolha. A página deve ser visualmente 
 agradável, responsiva e conter no mínimo um menu principal e quatro seções. 
 Requisitos obrigatórios: 
 1. Estrutura HTML 
-• Arquivo HTML bem definido, formatado e com a estrutura padrão correta (head, 
+ - Arquivo HTML bem definido, formatado e com a estrutura padrão correta (head, 
 body, etc.) 
-• Separação clara entre as seções da página 
-2. Conteúdo mínimo (Menu e 4 seções obrigatórias) 
+ - Separação clara entre as seções da página 
+2. Conteúdo mínimo (Menu e 4 seções obrigatórias)
+
 Você deve incluir um menu principal e pelo menos quatro dos seguintes componentes 
-(escolha os que achar mais adequados ao seu tema): 
-Componente 
-Descrição 
-Hero Section 
-Seção de destaque no topo com título, subtítulo, botão e imagem ou 
+(escolha os que achar mais adequados ao seu tema):
+- Componente 
+- Descrição 
+- Hero Section 
+- Seção de destaque no topo com título, subtítulo, botão e imagem ou 
 fundo 
 Sobre 
 Texto explicando o propósito do site, produto ou serviço 
